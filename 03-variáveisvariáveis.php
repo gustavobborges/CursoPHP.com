@@ -12,4 +12,4 @@ echo "<br>";
 $destino = "cidade";
 $$destino = "floripa";
 
-echo $cidade;;
+echo $cidade;
